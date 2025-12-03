@@ -82,8 +82,13 @@ h3 {
     color: #000;
 }
 
-h3:first-of-type {
-    margin-top: 0;
+.experience-item h3 {
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+
+.experience-item h3:first-of-type {
+    margin-top: 16px;
 }
 
 .experience-item {
