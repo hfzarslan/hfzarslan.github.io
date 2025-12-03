@@ -169,6 +169,14 @@ section h3 + p:last-child {
     margin-bottom: 0;
 }
 
+.project-item h3 {
+    font-size: 1.125rem;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 12px;
+    color: #000;
+}
+
 .project-item p {
     margin-bottom: 8px;
     color: #000;
@@ -271,6 +279,10 @@ p {
     }
 
     .education-item strong {
+        color: #fff;
+    }
+
+    .project-item h3 {
         color: #fff;
     }
 
