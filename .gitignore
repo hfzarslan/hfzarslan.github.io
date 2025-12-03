@@ -1,0 +1,15 @@
+# Resume/CV files
+*.docx
+Hafiz_Muhammad_Arslan_CV*.docx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
